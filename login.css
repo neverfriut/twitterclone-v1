@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    width: 100%;
+    overflow: hidden;
+    overflow-y: scroll;
+    font-size: 1rem;
+    font-weight: 300;
+    font-family: "Roboto", sans-serif;
+}
+
+#wrap{
+    width: 25vw;
+    position: absolute;
+    right: 37.5vw;
+    left: 37.5vw;
+    top: 10vh;
+    display: grid;
+    grid-template-rows: 1fr(auto);
+    text-align: center;
+}
+
+form {
+    display: grid;
+    margin-top: 5vh;
+}
+
+form input:focus{
+    outline: none;
+}
+
+form input{
+    border: none;
+    border-bottom: 0.125rem solid rgba(29,161, 242);
+    background: #f1f1f0;
+    height: 2rem;
+    font-size: 1.0625;
+    padding-left: 0.875;
+    line-height: 147.6%;
+    padding-top: 1.2rem;
+    margin-top: 1rem;
+}
+
+button{
+    color: white;
+    background: rgba(29,161, 242);
+    height: 5vh;
+    border-radius: 3vw;
+    border: 1px solid rgba(29,161, 242);
+    margin-top: 3vh;
+    font-weight: bold;
+    width: 100%;
+}
+
+svg{
+    width: 3vw;
+    fill: rgba(29,161, 242);
+    margin-bottom: 3vh;
+}

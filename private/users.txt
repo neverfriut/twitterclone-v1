@@ -1,0 +1,119 @@
+[
+    {
+        "id": "5f6753f67b616",
+        "firstname": "Thomas",
+        "lastname": "Seidelin",
+        "email": "thom@thom.dk",
+        "password": "$2y$10$TGTV\/CH5IJ22T8ZMbj.cmu0sez4Tl94guUnx6VJ2VYyg5NssRFJEm",
+        "tweets": [
+            {
+                "id": "5f676041e21bd",
+                "author": "Thomas",
+                "message": "New title",
+                "active": 1
+            },
+            {
+                "id": "5f6897aa1e5be",
+                "author": "Thomas",
+                "message": "lol",
+                "active": 1
+            },
+            {
+                "id": "5f6cde421e45c",
+                "author": "Thomas",
+                "message": "dfdfd",
+                "active": 1
+            },
+            {
+                "id": "5f6cde708dab2",
+                "author": "Thomas",
+                "message": "TITLE2",
+                "active": 1
+            },
+            {
+                "id": "5f6cdea06442d",
+                "author": "Thomas",
+                "message": "WORK",
+                "active": 1
+            },
+            {
+                "id": "5f6cdea95177a",
+                "author": "Thomas",
+                "message": "hello",
+                "active": 1
+            }
+        ]
+    },
+    {
+        "id": "5f6899e9b330f",
+        "firstname": "Sten",
+        "lastname": "Andreasen",
+        "email": "sand@sand.dk",
+        "password": "$2y$10$4CEFTcHWJ1DP7n17Z8LITeyyRogiw1v4o7\/IPyMG7W02FFlIdZ3De",
+        "tweets": [
+            {
+                "id": "5f689fb324373",
+                "author": "Sten",
+                "message": "LOL",
+                "active": 1
+            },
+            {
+                "id": "5f689fb83b12d",
+                "author": "Sten",
+                "message": "Hi ",
+                "active": 1
+            },
+            {
+                "id": "5f69ca45cda31",
+                "author": "Sten",
+                "message": "ffffff",
+                "active": 1
+            },
+            {
+                "id": "5f6b0278eb21d",
+                "author": "Sten",
+                "message": "Whale",
+                "active": 1
+            }
+        ]
+    },
+    {
+        "id": "5f6c9408eb6b2",
+        "firstname": "thomas",
+        "lastname": "seidelin",
+        "email": "thomas@thomas.dk",
+        "password": "$2y$10$nFAh6HSpDquq.mQP6\/2uxOAbHsnjHj4jzULaIA4yEsrY0Kb71Sqb.",
+        "tweets": [
+            {
+                "id": "5f6c96192eb5d",
+                "author": "thomas",
+                "message": "TITLE2",
+                "active": 1
+            },
+            {
+                "id": "5f6c9704c1efc",
+                "author": "thomas",
+                "message": "hello",
+                "active": 1
+            },
+            {
+                "id": "5f6c970f34c9d",
+                "author": "thomas",
+                "message": "New title",
+                "active": 1
+            },
+            {
+                "id": "5f6c97954f302",
+                "author": "thomas",
+                "message": "TITLE2",
+                "active": 1
+            },
+            {
+                "id": "5f6c979d55355",
+                "author": "thomas",
+                "message": "hello",
+                "active": 1
+            }
+        ]
+    }
+]
